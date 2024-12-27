@@ -1,0 +1,5 @@
+{
+    "ZZ2_FILIAL": (:type=string, :fixed),
+    "ZZ2_PORTAL": (:type=number, :random :min=0, :max=10),
+    "ZZ2_ORIGEM": (:type=boolean, :fixed)
+}

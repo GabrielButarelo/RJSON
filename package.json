@@ -1,0 +1,16 @@
+{
+  "name": "rjson",
+  "version": "0.0.1",
+  "description": "Create random json files",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node src/index.ts"
+  },
+  "author": "Gabriel Butarelo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
